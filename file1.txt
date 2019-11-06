@@ -1,2 +1,6 @@
 This is file1.txt.
 My first file in github.com
+
+Add some lines: Hi
+First line: My name is
+Second line: Alex
